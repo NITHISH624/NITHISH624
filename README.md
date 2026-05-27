@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nithish G 👋</h1>
 
 <p align="center">
-  <b>Cloud Engineer · DevOps · Linux · AWS</b><br/>
+  <b>Cloud Engineer · DevOps · Linux · AWS · CCNA</b><br/>
   Final-year CSE student turning infrastructure problems into clean, automated solutions.<br/>
   Open to remote roles and freelance work.
 </p>
@@ -26,15 +26,26 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-**Cloud & Infrastructure:** AWS (EC2, S3, IAM), Linux administration, networking basics
+**Cloud & Infrastructure:** AWS (EC2, S3, IAM), Linux administration, Terraform (learning)
+**Networking:** CCNA — TCP/IP, VLANs, routing & switching, subnetting, network security
 **Security:** AES encryption, SHA-256/512, TLS 1.3, RBAC, anomaly detection
 **Dev:** Python, HTML/CSS, JavaScript, Git
-**Exploring:** Terraform, CI/CD pipelines, boto3
+**Exploring:** CI/CD pipelines, boto3, Pulumi
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
