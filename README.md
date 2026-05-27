@@ -58,8 +58,8 @@ Built a security layer for medical IoT digital twins. Implemented AES encryption
 ---
 
 ### 🎙 Dynamic Voice Intelligence
-*(Add a 2-line description: what it does, what problem it solves, what stack it uses)*
-`Python` `NLP` `...`
+An AI-based voice intelligence system for real-time speech recognition, voice analysis, and intelligent response processing. Built to handle live audio input and return context-aware responses with low latency.
+`Python` `Speech Recognition` `NLP` `AI/ML` `Voice Processing`
 
 ---
 
