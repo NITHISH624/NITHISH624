@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Nithish G 👋</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Cloud+Engineer;DevOps+%7C+AWS+%7C+Linux;CCNA+%28In+Progress%29;Open+to+Remote+%26+Freelance" alt="Typing SVG"/>
+
 <p align="center">
-  <b>Cloud Engineer · DevOps · Linux · AWS · CCNA</b><br/>
+  <b>Cloud Engineer · DevOps · Linux · AWS</b><br/>
   Final-year CSE student turning infrastructure problems into clean, automated solutions.<br/>
   Open to remote roles and freelance work.
 </p>
@@ -40,30 +42,30 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA%20(In%20Progress)-grey?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-grey?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
 ## 🔥 Projects
 
-### 🔐 Secure Digital Twin Framework for Medical Instrumentation
+### 🔐 [Secure Digital Twin Framework for Medical Instrumentation](https://github.com/NITHISH624/A-Secure-Digital-Twin-Framwork-For-Medical-Instrumentation-System)
 Built a security layer for medical IoT digital twins. Implemented AES encryption, SHA-256/SHA-512 hashing, TLS 1.3 communication, and role-based access control. Integrated an XGBoost anomaly detection model to flag abnormal device behavior in real time.
 `Python` `AES` `TLS 1.3` `RBAC` `XGBoost` `IoT Security`
 
 ---
 
-### 🎙 Dynamic Voice Intelligence
+### 🎙 [Dynamic Voice Intelligence](https://github.com/NITHISH624/Dynamic_voice_Intelligence)
 An AI-based voice intelligence system for real-time speech recognition, voice analysis, and intelligent response processing. Built to handle live audio input and return context-aware responses with low latency.
 `Python` `Speech Recognition` `NLP` `AI/ML` `Voice Processing`
 
 ---
 
-### 🎬 Netflix Clone
+### 🎬 [Netflix Clone](https://github.com/NITHISH624/netflix-clone)
 A responsive Netflix UI clone built from scratch — no frameworks, just clean HTML, CSS, and vanilla JavaScript. Focused on layout precision and responsive design across screen sizes.
 `HTML` `CSS` `JavaScript`
 
@@ -80,15 +82,25 @@ A responsive Netflix UI clone built from scratch — no frameworks, just clean H
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISH624&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NITHISH624&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
 ## 🌱 Currently Working On
 
 - Learning Terraform and AWS infrastructure as code
 - Scripting cloud automation with Python + boto3
-- Building toward AWS Cloud Practitioner certification
+- Preparing for CCNA & AWS Cloud Practitioner certifications
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NITHISH624/NITHISH624/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
 
 ## 📫 Reach Me
 
